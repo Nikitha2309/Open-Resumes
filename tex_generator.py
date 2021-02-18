@@ -2,7 +2,7 @@
 def createTextFile(name,rollno,stream,branch,minor,college,email,iitgmail,mobileno,linkedin,education,projects,techskills,keyCourses,por,achievements):
 
     readfile = open("base.txt","rt")
-    writefile=open("latexFile.txt","w")
+    writefile=open("latexFile.tex","w")
 
     lines=readfile.readlines()
 
