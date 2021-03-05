@@ -40,7 +40,7 @@
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-9pt}\scshape\raggedright\large\textbf
+  \vspace{-9pt}\scshape\raggedright\large\bfseries
 }{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
 
 %-------------------------
@@ -76,7 +76,7 @@
 %----------HEADING-----------------Starts----------------
 \vspace{-0.1000pt}
 
-\begin{tabular}[h!]
+%\begin{tabular}[h!]
 
 \parbox{2.35cm}{
 
@@ -87,9 +87,9 @@
 
 \begin{tabular*}{\textwidth}{l@{\hskip 1.5cm}r}
 
-\textbf
+%\textbf
 
-{\huge Nikitha Reddy}\\
+\textbf{\huge Nikitha Reddy}\\
 {Roll No. 190102052}&\href{mailto:nikithareddy2309@gmail.com}{ nikithareddy2309@gmail.com}\\
 {B.Tech. - Electronics and Communication Engineering}& Mobile : +91-9848670705\\
 {Minor in Computer Science and Engineering} &\href{mailto:nikithareddy2309@gmail.com}{ nikithareddy2309@gmail.com}\\
@@ -97,7 +97,7 @@
 
 \end{tabular*}
 }
-\end{tabular}
+%\end{tabular}
 %----------HEADING-----------------Ends----------------
 
 
@@ -108,7 +108,7 @@
 \section{Education}
 \centering
  \begin{tabu} to 1\textwidth { | X[c] | X[c] | X[c] | X[c]| }
- \hline  { \textbf{Degree/Certificate} & \textbf{Institute/Board} & \textbf{CGPA/Percentage} & \textbf{Year}} \\
+ \hline   \textbf{Degree/Certificate} & \textbf{Institute/Board} & \textbf{CGPA/Percentage} & \textbf{Year} \\
  
  \hline B.Tech.& IIT, Guwahati & 0  & 2019 - Present \\
  \hline  B.Tech.& IIT, Guwahati & 0  & 2019 - Present \\

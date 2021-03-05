@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1613670346 "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex" "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.pdf" "latexFile" 1613670346
+["pdflatex"] 1614955300 "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex" "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.pdf" "latexFile" 1614955304
   "C:/Users/Nikitha/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1613664947 10472 50230ad244daeef4bde76880806bf51b ""
   "C:/Users/Nikitha/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1613664950 11548 727be96d45a424e951ead8ad942b0e98 ""
   "C:/Users/Nikitha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1613669680 9295124 9daa5891b630f686c112a15ec22b1e51 ""
@@ -106,16 +106,16 @@
   "C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.aux" 1613670346 9 a94a2480d3289e625eea47cd1b285758 ""
-  "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex" 1613670340 5826 f125d3f0cef2a2841cef5fc2b3ff51c1 ""
+  "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.aux" 1614955304 1381 159fc65f8adc23e223c9967a73ad60c0 ""
+  "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex" 1614955287 5269 55add3ab5cb3a0b45df8b4c5e27c79bd ""
   "iitg_logo.jpg" 1612527178 10659 b435cc99dbb78575ca67e928c455dc3b ""
-  "latexFile.aux" 0 -1 0 "pdflatex"
-  "latexFile.out" 0 -1 0 "pdflatex"
-  "latexFile.tex" 1613670340 5826 f125d3f0cef2a2841cef5fc2b3ff51c1 ""
+  "latexFile.aux" 1614955304 1381 159fc65f8adc23e223c9967a73ad60c0 "pdflatex"
+  "latexFile.out" 1614955304 730 85f621b9b1aaa2043be2ac6b6a828a61 "pdflatex"
+  "latexFile.tex" 1614955287 5269 55add3ab5cb3a0b45df8b4c5e27c79bd ""
   (generated)
-  "latexFile.aux"
-  "latexFile.out"
   "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.pdf"
-  "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.log"
   "latexFile.pdf"
+  "c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.log"
+  "latexFile.out"
+  "latexFile.aux"
   "latexFile.log"

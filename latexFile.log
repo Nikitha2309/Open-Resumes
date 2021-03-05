@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.18)  18 FEB 2021 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.18)  5 MAR 2021 20:11
 entering extended mode
 **c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex
 (c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex
@@ -490,59 +490,19 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
 LaTeX Info: Redefining \nameref on input line 75.
+ (c:/Users\Nikitha\Desktop\pro\OR\open_resumes\latexFile.out) (c:/Users\Nikitha\Desktop\pro\OR\open_resumes\latexFile.out)
 \@outlinefile=\write3
 \openout3 = `latexFile.out'.
 
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 79.
- (C:\Users\Nikitha\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-Runaway argument?
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:80: Paragraph ended before \@@array was complete.
-<to be read again> 
-                   \par 
-l.80 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:80: Missing $ inserted.
-<inserted text> 
-                $
-l.80 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-<iitg_logo.jpg, id=3, 114.4275pt x 115.43124pt>
+<iitg_logo.jpg, id=27, 114.4275pt x 115.43124pt>
 File: iitg_logo.jpg Graphic file (type jpg)
 <use iitg_logo.jpg>
 Package pdftex.def Info: iitg_logo.jpg  used on input line 85.
 (pdftex.def)             Requested size: 64.01869pt x 64.58292pt.
-Runaway argument?
-{
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:99: Paragraph ended before \text@command was complete.
-<to be read again> 
-                   \par 
-l.99 }
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:99: Extra }, or forgotten \endgroup.
-<recently read> \egroup 
-                        
-l.99 }
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 85.
+ (C:\Users\Nikitha\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
 Underfull \hbox (badness 10000) in alignment at lines 99--99
 [][] 
  []
@@ -552,229 +512,14 @@ Overfull \hbox (71.13188pt too wide) in paragraph at lines 99--99
 [][] 
  []
 
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:100: Misplaced \crcr.
-\endarray ->\crcr 
-                  \egroup \egroup \@arrayright \gdef \@preamble {}
-l.100 \end{tabular}
-                   
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:100: Extra }, or forgotten \endgroup.
-\endarray ->\crcr \egroup \egroup 
-                                  \@arrayright \gdef \@preamble {}
-l.100 \end{tabular}
-                   
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:100: Extra }, or forgotten $.
-<recently read> \egroup 
-                        
-l.100 \end{tabular}
-                   
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:100: Missing $ inserted.
-<inserted text> 
-                $
-l.100 \end{tabular}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (17.39891pt too wide) in paragraph at lines 79--102
-[][]$$ 
+Overfull \hbox (12.95447pt too wide) in paragraph at lines 85--102
+[]$[]$ $[]$ 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 108.
-
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:108: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108 \section{Education}
-                         
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing } inserted.
-<inserted text> 
-                }
-l.117 \end{tabu}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.117 \end{tabu}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing } inserted.
-<inserted text> 
-                }
-l.117 \end{tabu}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing { inserted.
-<inserted text> 
-                {
-l.117 \end{tabu}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Undefined control sequence.
-\tabu@cellralign ->\tabu@verticalspacing 
-                                         
-l.117 \end{tabu}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing $ inserted.
-<inserted text> 
-                $
-l.117 \end{tabu}
-                
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing } inserted.
-<inserted text> 
-                }
-l.117 \end{tabu}
-                
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing } inserted.
-<inserted text> 
-                }
-l.117 \end{tabu}
-                
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Missing } inserted.
-<inserted text> 
-                }
-l.117 \end{tabu}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:117: Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.117 \end{tabu}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:125: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.125 \section{Projects}
-                        
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:161: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.161 \section{Technical Skills}
-                                
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:182: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182  \section{Key courses taken}
-                                  
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:201: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.201 \section{Positions of Responsibility}
-                                           
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-
-c:/Users/Nikitha/Desktop/pro/OR/open_resumes/latexFile.tex:238: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.238 \section{Achievements}
-                            
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -787,27 +532,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `latexFile.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `latexFile.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  85F621B9B1AAA2043BE2AC6B6A828A61;730.
+Package rerunfilecheck Info: File `latexFile.out' has not changed.
+(rerunfilecheck)             Checksum: 85F621B9B1AAA2043BE2AC6B6A828A61;730.
  ) 
 Here is how much of TeX's memory you used:
- 11455 strings out of 479616
- 171755 string characters out of 2864051
- 581791 words of memory out of 3000000
- 28444 multiletter control sequences out of 15000+200000
+ 11467 strings out of 479616
+ 172073 string characters out of 2864051
+ 578023 words of memory out of 3000000
+ 28452 multiletter control sequences out of 15000+200000
  409884 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,75p,271b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,13n,75p,277b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Nikitha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Nikitha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Nikitha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on c:/Users\Nikitha\Desktop\pro\OR\open_resumes\latexFile.pdf (1 page, 131175 bytes).
+Output written on c:/Users\Nikitha\Desktop\pro\OR\open_resumes\latexFile.pdf (1 page, 136491 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
- 12 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 60 words of extra memory for PDF output out of 10000 (max. 10000000)
 
