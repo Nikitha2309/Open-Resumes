@@ -1,12 +1,11 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from app.tex_gen import createTextFile
-from open_resumes.settings import BASE_DIR
+from openresume.settings import BASE_DIR
 import os
 
+
 # Create your views here.
-def home(request):
-    return HttpResponse("Heloo alll :)  Hope we can finish this project successfully ;)")
 
 def index(request):
     #print(request.GET)
@@ -32,8 +31,8 @@ def index(request):
         os.system("cd")
         os.system("pdflatex latexFile.tex")
         os.system("move latexFile.pdf ./static/pdfs")
-        return render(request,'app/results.html',context=my_dict)
+        return render(request,'pdfgen/results.html',context=my_dict)
        
-    return render(request,'app/index.html',context = my_dict)
+    return render(request,'pdfgen/index.html',context = my_dict)
 
 
