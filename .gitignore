@@ -6,3 +6,4 @@ latexFile.fls
 latexFile.pdf
 latexFile.synctex.gz
 latexFile.out 
+db.sqlite3
